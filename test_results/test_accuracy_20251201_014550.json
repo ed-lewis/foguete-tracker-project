@@ -1,0 +1,56 @@
+[
+  {
+    "distance_real": 5,
+    "distance_estimated": 35.35,
+    "rssi_dbm": -36.14,
+    "rssi_theoretical": -19.15,
+    "error_m": 30.35,
+    "error_percent": 607.05,
+    "path_loss_db": 56.14
+  },
+  {
+    "distance_real": 10,
+    "distance_estimated": 70.72,
+    "rssi_dbm": -42.16,
+    "rssi_theoretical": -25.17,
+    "error_m": 60.72,
+    "error_percent": 607.16,
+    "path_loss_db": 62.16
+  },
+  {
+    "distance_real": 20,
+    "distance_estimated": 141.39,
+    "rssi_dbm": -48.18,
+    "rssi_theoretical": -31.19,
+    "error_m": 121.39,
+    "error_percent": 606.93,
+    "path_loss_db": 68.18
+  },
+  {
+    "distance_real": 30,
+    "distance_estimated": 212.18,
+    "rssi_dbm": -51.71,
+    "rssi_theoretical": -34.71,
+    "error_m": 182.18,
+    "error_percent": 607.28,
+    "path_loss_db": 71.71
+  },
+  {
+    "distance_real": 50,
+    "distance_estimated": 353.79,
+    "rssi_dbm": -56.15,
+    "rssi_theoretical": -39.15,
+    "error_m": 303.79,
+    "error_percent": 607.58,
+    "path_loss_db": 76.15
+  },
+  {
+    "distance_real": 100,
+    "distance_estimated": 707.15,
+    "rssi_dbm": -62.16,
+    "rssi_theoretical": -45.17,
+    "error_m": 607.15,
+    "error_percent": 607.15,
+    "path_loss_db": 82.16
+  }
+]

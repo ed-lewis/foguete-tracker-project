@@ -1,0 +1,142 @@
+[
+  {
+    "tempo_s": 0.0,
+    "distancia_real": 10.0,
+    "distancia_estimada": 49.03,
+    "rssi_dbm": -38.98,
+    "erro_percent": 390.3
+  },
+  {
+    "tempo_s": 0.2,
+    "distancia_real": 16.58,
+    "distancia_estimada": 81.22,
+    "rssi_dbm": -43.37,
+    "erro_percent": 389.8
+  },
+  {
+    "tempo_s": 0.4,
+    "distancia_real": 22.99,
+    "distancia_estimada": 112.73,
+    "rssi_dbm": -46.21,
+    "erro_percent": 390.4
+  },
+  {
+    "tempo_s": 0.6,
+    "distancia_real": 29.04,
+    "distancia_estimada": 142.33,
+    "rssi_dbm": -48.24,
+    "erro_percent": 390.2
+  },
+  {
+    "tempo_s": 0.8,
+    "distancia_real": 34.57,
+    "distancia_estimada": 169.58,
+    "rssi_dbm": -49.76,
+    "erro_percent": 390.6
+  },
+  {
+    "tempo_s": 1.0,
+    "distancia_real": 39.43,
+    "distancia_estimada": 193.2,
+    "rssi_dbm": -50.89,
+    "erro_percent": 390.0
+  },
+  {
+    "tempo_s": 1.2,
+    "distancia_real": 43.49,
+    "distancia_estimada": 213.17,
+    "rssi_dbm": -51.75,
+    "erro_percent": 390.2
+  },
+  {
+    "tempo_s": 1.4,
+    "distancia_real": 46.63,
+    "distancia_estimada": 228.62,
+    "rssi_dbm": -52.35,
+    "erro_percent": 390.3
+  },
+  {
+    "tempo_s": 1.6,
+    "distancia_real": 48.78,
+    "distancia_estimada": 239.41,
+    "rssi_dbm": -52.75,
+    "erro_percent": 390.8
+  },
+  {
+    "tempo_s": 1.8,
+    "distancia_real": 49.86,
+    "distancia_estimada": 244.42,
+    "rssi_dbm": -52.93,
+    "erro_percent": 390.2
+  },
+  {
+    "tempo_s": 2.0,
+    "distancia_real": 49.86,
+    "distancia_estimada": 244.24,
+    "rssi_dbm": -52.93,
+    "erro_percent": 389.8
+  },
+  {
+    "tempo_s": 2.2,
+    "distancia_real": 48.78,
+    "distancia_estimada": 238.96,
+    "rssi_dbm": -52.74,
+    "erro_percent": 389.9
+  },
+  {
+    "tempo_s": 2.4,
+    "distancia_real": 46.63,
+    "distancia_estimada": 228.66,
+    "rssi_dbm": -52.36,
+    "erro_percent": 390.4
+  },
+  {
+    "tempo_s": 2.6,
+    "distancia_real": 43.49,
+    "distancia_estimada": 213.25,
+    "rssi_dbm": -51.75,
+    "erro_percent": 390.4
+  },
+  {
+    "tempo_s": 2.8,
+    "distancia_real": 39.43,
+    "distancia_estimada": 193.24,
+    "rssi_dbm": -50.89,
+    "erro_percent": 390.1
+  },
+  {
+    "tempo_s": 3.0,
+    "distancia_real": 34.57,
+    "distancia_estimada": 169.77,
+    "rssi_dbm": -49.77,
+    "erro_percent": 391.1
+  },
+  {
+    "tempo_s": 3.2,
+    "distancia_real": 29.04,
+    "distancia_estimada": 142.09,
+    "rssi_dbm": -48.22,
+    "erro_percent": 389.3
+  },
+  {
+    "tempo_s": 3.4,
+    "distancia_real": 22.99,
+    "distancia_estimada": 112.88,
+    "rssi_dbm": -46.22,
+    "erro_percent": 391.0
+  },
+  {
+    "tempo_s": 3.6,
+    "distancia_real": 16.58,
+    "distancia_estimada": 81.27,
+    "rssi_dbm": -43.37,
+    "erro_percent": 390.1
+  },
+  {
+    "tempo_s": 3.8,
+    "distancia_real": 10.0,
+    "distancia_estimada": 49.08,
+    "rssi_dbm": -38.99,
+    "erro_percent": 390.8
+  }
+]
