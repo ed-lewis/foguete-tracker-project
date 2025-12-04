@@ -3,8 +3,8 @@ Add-Content -Path "README.md" -Value @"
 
 ## 📁 Estrutura do Projeto
 foguete-tracker-project/
-├── .vscode/
-├── src/
-├── test_results/
-├── flowgraphs/
+├── .vscode/  
+├── src/  
+├── test_results/  
+├── flowgraphs/  
 └── README.md
